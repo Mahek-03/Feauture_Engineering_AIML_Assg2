@@ -65,4 +65,4 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn.
 
 ## Author
 
-[Your name here]
+Mahek Chaurasia
