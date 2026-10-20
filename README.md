@@ -24,15 +24,13 @@ No missing values or duplicates in the raw file.
 ├── Housing.csv                          # raw dataset
 ├── Housing_Feature_Engineering.ipynb    # full pipeline (run in Google Colab)
 ├── housing_engineered_full.csv          # cleaned + encoded + engineered features (generated)
-├── housing_train_processed.csv          # processed train split (generated)
-├── housing_test_processed.csv           # processed test split (generated)
 ├── housing_final_model.joblib           # fitted model (generated)
 └── README.md
 ```
 
 ## How to run
 
-1. Open `Housing_Feature_Engineering.ipynb` in [Google Colab](https://colab.research.google.com).
+1. Open `Housing_Feature_Engineering.ipynb` in [Google Colab](https://colab.research.google.com/drive/1q523u80ZFr5yQtAQDtZH_z4iB2VJuLdD?usp=sharing).
 2. Run all cells top to bottom.
 3. When prompted in the first cell, upload `Housing.csv`.
 4. Processed CSVs and the saved model are generated at the end and offered as downloads.
