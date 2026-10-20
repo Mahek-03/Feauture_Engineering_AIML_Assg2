@@ -30,7 +30,7 @@ No missing values or duplicates in the raw file.
 
 ## How to run
 
-1. Open `Housing_Feature_Engineering.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `Assg2_FeatureEng.ipynb` in [Google Colab](https://colab.research.google.com/).
 2. Run all cells top to bottom.
 3. When prompted in the first cell, upload `Housing.csv`.
 4. Processed CSVs and the saved model are generated at the end and offered as downloads.
